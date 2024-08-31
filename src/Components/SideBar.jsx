@@ -17,7 +17,7 @@ const SideBar = () => {
       </h3>
       <ul>
         <li>
-          <Link to={"#"}>
+          <Link to={"/home"}>
             <ImHome /> <span>Home</span>
           </Link>
         </li>
