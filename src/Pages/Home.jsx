@@ -5,7 +5,13 @@ const itemsData = {
   Lights: "",
   "Air Conditioner": "",
   fans: "",
-  Refridgerator: "",
+  Refrigerator: "",
+  "Washing Machine": "",
+  "Microwave Oven": "",
+  Blender: "",
+  "Stove Top": "",
+  "Garbage Disposal": "",
+  "Security System": "",
 };
 
 const Home = () => {
